@@ -1,0 +1,39 @@
+body {
+  font-family: 'Press Start 2P', cursive;
+  background-color: #1a1a2e;
+  text-align: center;
+  color: #fff;
+}
+
+.pomodoro-container {
+  padding: 20px;
+  max-width: 450px;
+  margin: auto;
+  background-color: #16213e;
+  border: 4px solid #4834d4;
+}
+
+.timer-display {
+  background-color: #0f3460;
+  padding: 15px;
+  border-radius: 5px;
+  border: 2px solid #22a6b3;
+}
+
+.pixel-font {
+  font-size: 2.5rem;
+  color: #ff6b6b;
+}
+
+button {
+  background-color: #4834d4;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #22a6b3;
+}
