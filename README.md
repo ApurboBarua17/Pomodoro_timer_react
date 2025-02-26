@@ -14,6 +14,14 @@ Ambient Sounds 🌿: Add calming background noise (Rain, Forest, Cafe).
 
 Session Tracking 📊: Monitor work & break session history.
 
+🚀 Coding Languages & Frameworks
+
+JavaScript (React.js) - Frontend Framework
+
+HTML & CSS - UI Styling
+
+Node.js & npm - Package Management
+
 🛠️ Installation & Setup
 
 1️⃣ Clone the Repository
