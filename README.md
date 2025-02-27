@@ -31,6 +31,7 @@ Node.js & npm - Package Management
 
 3️⃣ Run the App
 ---> npm start
+
 All Lofi music and ambient sounds are sourced from free-to-use audio libraries. If you want to add your own MP3 files:
 
 Place them in the /public/audio/ folder.
